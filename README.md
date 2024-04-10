@@ -1,4 +1,4 @@
-# srmm
+# School Management System Admin App
 
 A new Flutter project.
 
